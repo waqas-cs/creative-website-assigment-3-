@@ -1,0 +1,27 @@
+.headerMain{
+    background-color: transparent;
+    position: fixed;
+    top:0;
+    right:0;
+    left: 0;
+}
+.headerMainWrap{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 18px;
+    color: white;;
+}
+.logoImage{
+    width: 180px;
+}   
+.navLinks ul{
+    list-style: none;
+    display: flex;
+}
+.navLinks ul li{
+    margin-right: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}

@@ -1,0 +1,31 @@
+.hero{
+    background-image: url("../../assets/images/heroBg.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+.heroWrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+}
+.heroContent h1{
+    font-size: 55px;
+    font-weight: 600;
+    color: white;
+}
+.heroContent span{
+    font-size: 55px;
+    font-weight: 700;
+}
+.heroContent button{
+    padding: 12px 20px;
+    background-color: #BB2026;
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}

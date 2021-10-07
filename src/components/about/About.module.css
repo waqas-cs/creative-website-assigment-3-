@@ -1,0 +1,23 @@
+.aboutMain{
+    padding: 50px 0px;
+}.aboutWrap{
+    display: flex;
+    justify-content: space-between;
+}
+.aboutImage, .aboutContent{
+    width: 48%;
+}
+.aboutContent{
+    text-align: justify;
+}
+.aboutContent h2{
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.aboutContent p{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    line-height: 1.5;
+}

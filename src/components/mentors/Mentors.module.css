@@ -1,0 +1,34 @@
+.mentorMainWrap h3{
+    font-size: 36px;
+    font-weight: 700;
+    margin: 30px 0px;
+}
+.mentorMainWrap p{
+    width: 85%;
+    margin: 20px auto;
+    font-size: 16px;
+    font-weight: 500;
+}
+.mentorCards{
+    display: flex;
+    justify-content: space-between;
+}
+.metorCard{
+    width: 23%;
+    height: auto;
+}
+.metorCard img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 15px 0px;
+}
+.metorCard h5{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.metorCard h6{
+    font-size: 18px;
+    color: #6b6b6b;
+}
